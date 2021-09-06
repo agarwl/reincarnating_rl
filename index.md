@@ -1,5 +1,5 @@
 ---
-title: 'Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning'
+title: 'Deep Reinforcement Learning at the Edge of the Statistical Precipice'
 layout: default
 ---
 
