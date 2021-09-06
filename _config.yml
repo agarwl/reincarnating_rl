@@ -1,13 +1,9 @@
 intro:
-title: Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning
-description:
-- Spotlight at International Conference on Learning Representations (ICLR) 2021 
-- Contributed Talk (15 min) at NeurIPS 2020 Workshop on Biological and Artificial RL. 
+title: Deep Reinforcement Learning at the Edge of the Statistical Precipice
 buttons:
-  Paper: 'https://arxiv.org/pdf/2101.05265.pdf'
-  Slides: 'pdfs/slides.pdf'
-  Code: 'https://github.com/google-research/google-research/tree/master/pse'
-  Poster: 'pdfs/pse_poster.pdf'
-  OpenReview: 'https://openreview.net/forum?id=qda7-sVg84'
-  Contributed Talk: 'https://slideslive.com/38942373'
+  Paper: 'https://arxiv.org/abs/2108.13264'
+  Code: 'https://github.com/google-research/rliable'
+  Colab: 'https://colab.sandbox.google.com/drive/1a0pSD-1tWhMmeJeeoyZM1A-HCW3yf1xR?usp=sharing'
+  Tweetprint: 'https://twitter.com/agarwl_/status/1432800830621687817?s=20'
+  Poster: 'pdfs/precipice_poster.pdf'
   Authors: '#authors'

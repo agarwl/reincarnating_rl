@@ -2,15 +2,19 @@
   image: https://agarwl.github.io/images/rishabh_profile.jpg
   title: Google Research, Brain Team and Mila
   url: https://agarwl.github.io/
-- name: Marlos C. Machado
-  image: assets/faces/marlos.png
-  title: DeepMind
-  url: http://mcmachado.info/
+- name: Max Schwarzer
+  image: assets/faces/max.jpeg
+  title: Mila
+  url: https://scholar.google.com/citations?user=YmWRSvgAAAAJ&hl=en
 - name: Pablo Samuel Castro
   image: assets/faces/psc_gradient.png
   url: https://psc-g.github.io/
   title: Google Research, Brain Team
+- name: Aaron Courville
+  image: assets/faces/aaron.jpeg
+  url: https://mila.quebec/en/person/aaron-courville/
+  title: Mila
 - name: Marc G. Bellemare
-  image: assets/faces/marc.jpg
+  image: assets/faces/marc.jpeg
   url: http://www.marcgbellemare.info/
   title: Google Research, Brain Team
