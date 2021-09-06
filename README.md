@@ -1,5 +1,5 @@
 
-## [agarwl.github.io/pse](https://agarwl.github.io/pse)
+## [agarwl.github.io/rliable](https://agarwl.github.io/rliable)
 
-Github Page for the paper "Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning".  
+Github Page for the paper "Deep Reinforcement Learning at the Edge of the Statistical Precipice".  
 
