@@ -3,7 +3,7 @@ title: 'Deep Reinforcement Learning at the Edge of the Statistical Precipice'
 layout: default
 ---
 
-<style>thead { display: none; }</style>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XSY9JwqD-bw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p class="cover" align="center"> <img src="assets/poster.png" /> </p>
 
