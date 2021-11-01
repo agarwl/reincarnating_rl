@@ -5,7 +5,9 @@ buttons:
   Paper: 'https://arxiv.org/abs/2108.13264'
   Library: 'https://github.com/google-research/rliable'
   Colab: 'https://colab.sandbox.google.com/drive/1a0pSD-1tWhMmeJeeoyZM1A-HCW3yf1xR?usp=sharing'
+  Blog: 'https://araffin.github.io/post/rliable/'
   Tweetprint: 'https://twitter.com/agarwl_/status/1432800830621687817?s=20'
   YouTube: 'https://youtu.be/XSY9JwqD-bw'
   Poster: 'pdfs/precipice_poster.pdf'
   Authors: '#authors'
+  
