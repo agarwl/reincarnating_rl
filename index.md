@@ -30,7 +30,7 @@ To cite this paper, please use the following reference:
 <div style="text-align: left;">
 {%- for person in site.data.authors -%}
 <div class="person">
-  <img src="{{ person.image }}" />
+  <img src="{{ person.image }}" width=140 />
   <a href="{{ person.url | relative_url }}">{{ person.name }}</a><br>
   <span>{{ person.title | replace: '&', '<br>' }}</span>
   <!--span>({{ person.topics }})</span-->
