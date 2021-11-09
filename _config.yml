@@ -2,11 +2,10 @@ intro:
 title: Deep RL at the Edge of the Statistical Precipice
 description: Oral (Top 1%) at Neural Information Processing Systems (NeurIPS), 2021
 buttons:
-  Paper: 'https://arxiv.org/abs/2108.13264'
+  Paper: 'https://openreview.net/forum?id=uqv8-U4lKBe'
   Library: 'https://github.com/google-research/rliable'
   Colab: 'https://colab.sandbox.google.com/drive/1a0pSD-1tWhMmeJeeoyZM1A-HCW3yf1xR?usp=sharing'
   Tweetprint: 'https://twitter.com/agarwl_/status/1432800830621687817?s=20'
-  Openreview: 'https://openreview.net/forum?id=uqv8-U4lKBe'
   Blog: 'https://araffin.github.io/post/rliable/'
   Poster: 'pdfs/precipice_poster.pdf'
   Slides: 'assets/slides_mlc.pdf'
