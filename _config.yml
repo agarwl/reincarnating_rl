@@ -1,6 +1,8 @@
 intro:
 title: Deep RL at the Edge of the Statistical Precipice
-description: Outstanding Paper Award (Top 6/9122 submissions) at Neural Information Processing Systems (NeurIPS) 2021
+description: 
+- Outstanding Paper Award at Neural Information Processing Systems (NeurIPS) 2021
+- Oral Presentation (Top 0.6%) at NeurIPS 2021
 buttons:
   Paper: 'https://openreview.net/forum?id=uqv8-U4lKBe'
   Library: 'https://github.com/google-research/rliable'
