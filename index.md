@@ -17,12 +17,12 @@ Citing
 ------
 To cite this paper, please use the following reference:
 
-        @inproceedings{agarwal2021deep,
-          title={Deep reinforcement learning at the edge of the statistical precipice},
-          author={Agarwal, Rishabh and Schwarzer, Max and Castro, Pablo Samuel and Courville, Aaron and Bellemare, Marc G},
-          booktitle={Thirty-Fifth Conference on Neural Information Processing Systems},
-          year={2021}
-        }
+  @inproceedings{agarwal2021deep,
+    title={Deep reinforcement learning at the edge of the statistical precipice},
+    author={Agarwal, Rishabh and Schwarzer, Max and Castro, Pablo Samuel and Courville, Aaron and Bellemare, Marc G},
+    booktitle={Thirty-Fifth Conference on Neural Information Processing Systems},
+    year={2021}
+  }
 
 
 ## Authors
