@@ -1,7 +1,7 @@
 
-## [agarwl.github.io/rliable](https://agarwl.github.io/rliable)
+## [agarwl.github.io/reincarnating_rl](https://agarwl.github.io/reincarnating_rl)
 
-Github Page for the paper [Deep Reinforcement Learning at the Edge of the Statistical Precipice](https://openreview.net/forum?id=uqv8-U4lKBe).
+Github Page for the paper [Beyond Tabula Rasa: Reincarnating Reinforcement Learning](https://arxiv.org/abs/2206.01626).
 
-Open-source code for the `rliable` library can be found at https://github.com/google-research/rliable.
+Open-source code for the paper can be found at https://github.com/google-research/reincarnating_rl.
 
