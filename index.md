@@ -11,18 +11,17 @@ layout: default
 
 <p class="cover" align="center"> <img src="assets/poster.png" /> </p>
 
-Our findings call for a change in how we evaluate performance in deep RL, for which we present a more rigorous evaluation methodology, accompanied with an open-source library <a href="https://github.com/google-research/rliable">rliable</a>, to prevent unreliable results from stagnating the field.
+This work argues for an alternative approach to RL research, where we build on prior computational work, which we believe could significantly improve real-world RL adoption and help democratize it further.
 
 Citing
 ------
 To cite this paper, please use the following reference:
 
-    @article{agarwal2021deep,
-      title={Deep reinforcement learning at the edge of the statistical precipice},
-      author={Agarwal, Rishabh and Schwarzer, Max and Castro, Pablo Samuel and Courville, Aaron C and Bellemare, Marc},
-      journal={Advances in Neural Information Processing Systems},
-      volume={34},
-      year={2021}
+     @article{agarwal2022beyond,
+      title={Beyond Tabula Rasa: Reincarnating Reinforcement Learning},
+      author={Agarwal, Rishabh and Schwarzer, Max and Castro, Pablo Samuel and Courville, Aaron and Bellemare, Marc G},
+      journal={arXiv preprint arXiv:2206.01626},
+      year={2022}
     }
 
 
