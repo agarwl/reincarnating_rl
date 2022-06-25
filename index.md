@@ -1,15 +1,15 @@
 ---
-title: 'Deep Reinforcement Learning at the Edge of the Statistical Precipice'
+title: 'Beyond Tabula Rasa: Reincarnating Reinforcement Learning'
 layout: default
 ---
 
-<p align="center">
+<!-- <p align="center">
 <iframe align="center" width="700" height="400" src="https://www.youtube.com/embed/XSY9JwqD-bw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</p> -->
 
-<p></p>
+<!-- <p></p> -->
 
-<p class="cover" align="center"> <img src="assets/poster.png" /> </p>
+<!-- <p class="cover" align="center"> <img src="assets/poster.png" /> </p> -->
 
 This work argues for an alternative approach to RL research, where we build on prior computational work, which we believe could significantly improve real-world RL adoption and help democratize it further.
 
