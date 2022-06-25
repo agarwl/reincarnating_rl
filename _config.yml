@@ -1,15 +1,9 @@
 intro:
-title: Deep RL at the Edge of the Statistical Precipice
+title: Beyond Tabula Rasa: Reincarnating Reinforcement Learning
 description: 
-- Outstanding Paper Award (Top 0.07%) at Neural Information Processing Systems (NeurIPS) 2021
+- Oral at ICML 2022 Updatable ML Workshop
 buttons:
-  Paper: 'https://arxiv.org/pdf/2108.13264.pdf'
-  Library: 'https://github.com/google-research/rliable'
-  Colab: 'https://colab.sandbox.google.com/drive/1a0pSD-1tWhMmeJeeoyZM1A-HCW3yf1xR?usp=sharing'
-  Tweetprint: 'https://twitter.com/agarwl_/status/1432800830621687817?s=20'
-  Google AI Blog: 'https://ai.googleblog.com/2021/11/rliable-towards-reliable-evaluation.html'
-  Blog: 'https://araffin.github.io/post/rliable/'
-  Poster: 'pdfs/Precipice_poster.pdf'
-  Slides: 'assets/slides_mlc.pdf'
+  Paper: 'https://arxiv.org/pdf/2206.01626.pdf'
+  Code: 'https://github.com/google-research/reincarnating_rl'
   Authors: '#authors'
  
