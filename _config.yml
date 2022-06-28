@@ -1,11 +1,9 @@
 intro:
-title: Beyond Tabula Rasa: Reincarnating Reinforcement Learning
-description: 
-- Oral at ICML 2022 Updatable ML Workshop
+title: 'Beyond Tabula Rasa: Reincarnating Reinforcement Learning'
+description: 'Oral at ICML 2022 Updatable ML Workshop'
 buttons:
   Paper: 'https://arxiv.org/pdf/2206.01626.pdf'
   Code: 'https://github.com/google-research/reincarnating_rl'
   Authors: '#authors'
- 
 
 theme: jekyll-theme-cayman
