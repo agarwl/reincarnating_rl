@@ -9,7 +9,7 @@ layout: default
 
 <!-- <p></p> -->
 
-<!-- <p class="cover" align="center"> <img src="assets/poster.png" /> </p> -->
+<p class="cover" align="center"> <img src="assets/main.png" /> </p>
 
 This work argues for an alternative approach to RL research, where we build on prior computational work, which we believe could significantly improve real-world RL adoption and help democratize it further.
 
