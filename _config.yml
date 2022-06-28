@@ -7,3 +7,5 @@ buttons:
   Code: 'https://github.com/google-research/reincarnating_rl'
   Authors: '#authors'
  
+
+theme: jekyll-theme-cayman
