@@ -1,11 +1,12 @@
 intro:
-title: 'Beyond Tabula Rasa: Reincarnating Reinforcement Learning'
+title: 'Reincarnating Reinforcement Learning: Reusing Prior Computation to Accelerate Progress'
 description: 
 - 'Neural Information Processing Systems (NeurIPS) 2022'
 - 'Oral at ICML 2022 Updatable ML Workshop'
 buttons:
   Paper: 'https://arxiv.org/pdf/2206.01626.pdf'
   Code: 'https://github.com/google-research/reincarnating_rl'
+  Colab: 'https://colab.research.google.com/drive/1ktlNni_vwFpFtCgUez-RHW0OdGc2U_Wv?usp=sharing'
   Slides: 'assets/slides_ttic.pdf'
   Authors: '#authors'
 
