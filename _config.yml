@@ -8,7 +8,8 @@ buttons:
   Code: 'https://github.com/google-research/reincarnating_rl'
   Colab: 'https://colab.research.google.com/drive/1ktlNni_vwFpFtCgUez-RHW0OdGc2U_Wv?usp=sharing'
   Tweetprint: 'https://twitter.com/agarwl_/status/1577744273314922501?s=20&t=bCrK5tWVuLVO0cdEivMMVg'
-  Slides: 'assets/slides_ttic.pdf'
+  Slides: 'assets/reincarnating_rl_slides.pdf'
+  OpenReview: 'https://openreview.net/forum?id=t3X5yMI_4G2'
   Authors: '#authors'
 
 theme: jekyll-theme-cayman
