@@ -5,7 +5,8 @@ description:
 - 'Oral at ICML 2022 Updatable ML Workshop'
 buttons:
   Paper: 'https://arxiv.org/pdf/2206.01626.pdf'
-  Code: 'https://github.com/google-research/reincarnating_rl'
+  Reference Code: 'https://github.com/google-research/reincarnating_rl'
+  Code (CleanRL): 'https://github.com/vwxyzjn/cleanrl/pull/344'
   Colab: 'https://colab.research.google.com/drive/1ktlNni_vwFpFtCgUez-RHW0OdGc2U_Wv?usp=sharing'
   Tweetprint: 'https://twitter.com/agarwl_/status/1577744273314922501?s=20&t=bCrK5tWVuLVO0cdEivMMVg'
   Slides: 'assets/reincaranting_rl_slides.pdf'
